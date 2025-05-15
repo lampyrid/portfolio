@@ -2022,7 +2022,6 @@ input, select, textarea {
 					}
 
 					#main > .panel.intro .pic img {
-						position: relative;
 						display: block;
 						position: absolute;
 						top: 0;
